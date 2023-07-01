@@ -1,0 +1,1 @@
+"./cs_clock_source_init.obj" "./msp432_startup_ccs.obj" "../cs_clock_source_init_ccs.cmd" "C:/ti/msp430/MSPWare_2_30_00_49/driverlib/driverlib/MSP432P4xx/ccs/msp432p4xx_driverlib.lib" -l"libc.a" 
